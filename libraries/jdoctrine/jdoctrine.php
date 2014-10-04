@@ -34,7 +34,7 @@ class JDoctrine {
 	 */
 	public static function getEntityManager($options) {
 		self::initAutoloader();
-		if(($opt = self::checkOptions($options))) {
+		if( ($opt = self::checkOptions($options)) ) {
 			switch($opt->configuration->type) {
 				case "xml":
 					$configuration = Setup::createXMLMetadataConfiguration($opt->configuration->paths, $opt->configuration->isDevMode);

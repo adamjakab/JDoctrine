@@ -2,3 +2,4 @@
 .directory
 libraries/jdoctrine/composer.lock
 libraries/jdoctrine/vendor/
+media/jDoctrine/proxy/
