@@ -1,0 +1,14 @@
+{
+    "name": "jab/jdoctrine",
+    "description": "Doctrine ORM library project for Joomla 3",
+    "homepage": "http://dev.alfazeta.com",
+    "minimum-stability": "stable",
+    "license": "GPL-1.0+",
+    "authors": [
+        {"name": "Adam Jakab", "email": "jakabadambalazs@gmail.com"}
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "doctrine/orm": "2.4.*"
+    }
+}

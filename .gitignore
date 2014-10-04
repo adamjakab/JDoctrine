@@ -1,0 +1,5 @@
+.DS_Store
+.directory
+libraries/jdoctrine/composer.lock
+libraries/jdoctrine/vendor/*
+
