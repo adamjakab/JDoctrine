@@ -55,4 +55,3 @@ The JDoctrine class has been set up in such a way that you can obtain more than 
 
  * Zero-config connection info will use Joomla's default database configuration for EntityManager
  * Database tables for entities are now prefixed with Joomla's database prefix
-
